@@ -2,4 +2,4 @@
 Saltillo, Coahuila, México. PrepaTec Campus Saltillo.
 
 ## Meet our 2024 robot, Blue!
-![Blue Ignition's 2024 robot: Blue](./assets/blue-2024.jpeg)
+<img src="./assets/blue-2024.jpeg" height="500px" />
